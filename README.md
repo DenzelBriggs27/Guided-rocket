@@ -1,5 +1,8 @@
 # Guided-rocket
 Project submission for an aerodynamically controlled rocket, with active stabilization achieved by aft fin control. The fins are controlled by a custom-made PCB based around the STM32f446RET6 MCU.
+The goal of this rocket is to stabilize trajectory on the roll, pitch, and yaw, axes by deflecting the aft fins of the rocket, producing controlled side forces. This project will incorporate CFD, filters, and control systems to achieve this goal. 
+
+This project is a step in my pursuit of a career in aerospace, granting me new knowledge in various areas. 
 
 CAD:
 <img width="1470" height="956" alt="Screenshot 2025-12-11 at 12 46 26 PM" src="https://github.com/user-attachments/assets/a4ba7400-3c0a-4794-9abe-f25e5b22ca4e" />
